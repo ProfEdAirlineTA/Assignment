@@ -1,4 +1,4 @@
 AC_type,Speed,Seats,TAT,Charging,Range,Runway,Lease_c,Operating_c,Time_c,Fuel_c,Energy_c
-Regional_Turboprop,550,45,25,0,1500,1400,15000,300,750,3,0
-Regional_Jet,820,70,35,0,3300,1600,34000,600,775,6,0
-Single_Aisle_Twin_Engine_Jet,850,150,45,0,6300,1800,80000,1250,1400,11.25,0
+Regional_Turboprop,550,45,25,0,1500,1400,15000,300,750,1,0
+Regional_Jet,820,70,35,0,3300,1600,34000,600,775,2,0
+Single_Aisle_Twin_Engine_Jet,850,150,45,0,6300,1800,80000,1250,1400,3.75,0
